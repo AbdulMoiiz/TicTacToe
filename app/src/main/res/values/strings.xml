@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="play_game">Play Game</string>
+    <string name="single_player">Single Player</string>
+    <string name="multi_player">Multi Player</string>
+    <string name="a_b_d_u_l_m_o_i_z">\@ A B D U L M O I Z</string>
+    <string name="r_e_s_t_a_r_t">R E S T A R T</string>
+</resources>
